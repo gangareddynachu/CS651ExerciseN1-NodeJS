@@ -8,18 +8,21 @@ Heroku Web App Demonstration
 Heroku runs on dynos.The command used to check is 'heroku ps'
 
 
-![herokups](https://user-images.githubusercontent.com/79683274/110164911-ea11a480-7da6-11eb-9d60-aaf6b595407e.JPG)
+![herokups](https://user-images.githubusercontent.com/79683274/110166056-a91a8f80-7da8-11eb-8dc8-d93975a04a0a.JPG)
+
 
 The below screenshot demontsrates building clusters in MongoDb Atlas.
 
 
-![Atlas](https://user-images.githubusercontent.com/79683274/110165240-8340bb00-7da7-11eb-94f1-bfaa25b9356e.JPG)
+![Atlas](https://user-images.githubusercontent.com/79683274/110166087-b172ca80-7da8-11eb-960a-7fb6d3aab4cd.JPG)
+
 
 
 The below page shows the results retrieved from database MongoDb.
 
 
-![db](https://user-images.githubusercontent.com/79683274/110165089-3a890200-7da7-11eb-890a-2fd79f46ac31.JPG)
+![db](https://user-images.githubusercontent.com/79683274/110166121-bdf72300-7da8-11eb-8d6a-acdab0ac7649.JPG)
+
 
 
 **Author**
